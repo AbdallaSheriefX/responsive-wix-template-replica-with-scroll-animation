@@ -1,0 +1,1 @@
+# responsive-wix-template-replica-with-scroll-animation
